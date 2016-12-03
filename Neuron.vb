@@ -60,6 +60,9 @@
     ' Processes a neurons output each time this method is called
 
     ' output += input * weight
+
+
+
     Public Sub process(ByVal input As Double)
 
         ' If we have dendrites
