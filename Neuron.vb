@@ -27,7 +27,7 @@
     ' Current error value of the neuron
     Public e As Double
 
-
+    'Ctor
     Public Sub New()
 
     End Sub
