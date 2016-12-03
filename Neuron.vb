@@ -57,8 +57,7 @@
         dendrite_count += 1
     End Sub
 
-    ' Processes a neurons output
-    ' each time this method is called
+    ' Processes a neurons output each time this method is called
 
     ' output += input * weight
     Public Sub process(ByVal input As Double)
